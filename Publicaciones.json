@@ -1,0 +1,140 @@
+[
+  { 
+    "titulo": "Duda sobre Cálculo EDO", 
+    "contenido": "¿Alguien me ayuda con la regla del producto para resolver esta ecuación diferencial?", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f72"}, 
+    "tipo_contenido": "PREGUNTA", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f68"}, "nombre": "Jackeline Orozco" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": ["https://youtu.be/MdKOjS8-oNw?si=b99hAPC_4jhMvEdU"] }, 
+    "comentarios": [ 
+      { "_id": {"$oid": "6abd8fa15a8792ca04367fa1"}, 
+        "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f69"}, 
+        "nombre": "Mateo Ríos" }, 
+        "texto": "Prueba con la regla del cociente primero.", 
+        "fecha": {"$date": "2026-09-17T10:15:00Z"} 
+      } 
+    ], 
+    "likes": 5, 
+    "fecha_creacion": {"$date": "2026-09-17T09:00:00Z"} 
+  },
+  { 
+    "titulo": "Guía rápida de anatomía cardiovascular", 
+    "contenido": "Comparto un resumen con esquemas del sistema circulatorio.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f73"}, 
+    "tipo_contenido": "RECURSO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f69"}, "nombre": "Mateo Ríos" }, 
+    "adjuntos": { "imagenes": ["https://cdn-icons-png.flaticon.com/128/14685/14685891.png"], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 22, 
+    "fecha_creacion": {"$date": "2026-09-18T08:30:00Z"} 
+  },
+  { 
+    "titulo": "Feria de emprendimiento este viernes", 
+    "contenido": "Invitamos a todos los estudiantes a participar en la feria del campus.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f75"}, 
+    "tipo_contenido": "EVENTO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6e"}, "nombre": "Alejandra Velosa" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": ["https://www.tiendanube.com/blog/ferias-de-emprendimiento/"] }, 
+    "comentarios": [ 
+      { "_id": {"$oid": "6abd8fa15a8792ca04367fa2"}, 
+        "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6f"}, 
+        "nombre": "Juan Daniel Montes" }, 
+        "texto": "¿A qué hora empieza?", 
+        "fecha": {"$date": "2026-09-19T12:00:00Z"} 
+      } 
+    ], 
+    "likes": 8, 
+    "fecha_creacion": {"$date": "2026-09-19T07:45:00Z"} 
+  },
+  { 
+    "titulo": "Opinión: la carga de proyectos este semestre", 
+    "contenido": "Siento que varios cursos coinciden en fechas de entrega, ¿les pasa igual?", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f7b"}, 
+    "tipo_contenido": "OPINION", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6a"}, "nombre": "Miguel Angel Londoño" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 0, 
+    "fecha_creacion": {"$date": "2026-09-20T14:10:00Z"} 
+  },
+  { 
+    "titulo": "Recursos de tipografía para principiantes", 
+    "contenido": "Una lista de fuentes y tutoriales que me sirvieron en el taller.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f74"}, 
+    "tipo_contenido": "RECURSO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6d"}, "nombre": "Wilson Henao" }, 
+    "adjuntos": { "imagenes": [], "videos": ["https://youtu.be/Z37lEQMfPtg?si=DcOm9GbSZ4vlpzr7"], "enlaces": [] }, 
+    "comentarios": [ 
+      { "_id": {"$oid": "6abd8fa15a8792ca04367fa3"}, 
+        "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f70"}, 
+        "nombre": "Son Je Ging" }, 
+        "texto": "Justo lo que necesitaba, gracias.", 
+        "fecha": {"$date": "2026-09-21T09:20:00Z"} 
+      } 
+    ], 
+    "likes": 15, 
+    "fecha_creacion": {"$date": "2026-09-21T08:00:00Z"} 
+  },
+  { 
+    "titulo": "¿Cómo van con Bases de Datos III?", 
+    "contenido": "Quiero armar un grupo de estudio para el parcial de la próxima semana.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f72"}, 
+    "tipo_contenido": "PREGUNTA", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6e"}, "nombre": "Alejandra Velosa" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 3, 
+    "fecha_creacion": {"$date": "2026-09-22T16:40:00Z"} 
+  },
+  { 
+    "titulo": "Torneo interno de fútbol: inscripciones abiertas", 
+    "contenido": "Formen sus equipos y regístrense antes del viernes.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f7a"}, 
+    "tipo_contenido": "EVENTO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6c"}, "nombre": "Juan Manuel Vasquez" }, 
+    "adjuntos": { "imagenes": ["https://cdn-icons-png.flaticon.com/128/6409/6409481.png"], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 0, 
+    "fecha_creacion": {"$date": "2026-09-23T11:00:00Z"} 
+  },
+  { 
+    "titulo": "Vacante de práctica en analítica de datos", 
+    "contenido": "Comparto una oferta de práctica que vi en LinkedIn, aplica para varias carreras.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f78"}, 
+    "tipo_contenido": "RECURSO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6f"}, "nombre": "Juan Daniel Montes" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": ["https://co.computrabajo.com/trabajo-de-analista-de-datos-en-pereira"] }, 
+    "comentarios": [ 
+      { "_id": {"$oid": "6abd8fa15a8792ca04367fa4"}, 
+        "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f68"}, 
+        "nombre": "Jackeline Orozco" }, 
+        "texto": "Ya apliqué, gracias por compartir.", 
+        "fecha": {"$date": "2026-09-24T10:05:00Z"} 
+      } 
+    ], 
+    "likes": 31, 
+    "fecha_creacion": {"$date": "2026-09-24T09:15:00Z"} 
+  },
+  { 
+    "titulo": "Espacio de conversación en inglés todos los martes", 
+    "contenido": "Nos reunimos en la cafetería a practicar inglés informalmente.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f79"}, 
+    "tipo_contenido": "EVENTO",
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f70"}, "nombre": "Son Je Ging" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 1, 
+    "fecha_creacion": {"$date": "2026-09-25T13:30:00Z"} 
+  },
+  { 
+    "titulo": "Comunicado: cambio de horario en biblioteca", 
+    "contenido": "A partir de la próxima semana la biblioteca abre desde las 6 a.m.", 
+    "categoria_id": {"$oid": "6abd8ed95a8792ca04367f76"}, 
+    "tipo_contenido": "AVISO", 
+    "autor": { "usuario_id": {"$oid": "6abd8a415a8792ca04367f6b"}, "nombre": "Sara Luz Perez" }, 
+    "adjuntos": { "imagenes": [], "videos": [], "enlaces": [] }, 
+    "comentarios": [], 
+    "likes": 4, 
+    "fecha_creacion": {"$date": "2026-09-26T07:00:00Z"} 
+  }
+]

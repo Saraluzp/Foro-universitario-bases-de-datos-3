@@ -1,0 +1,102 @@
+[
+  { 
+    "nombre": "Jackeline Orozco", 
+    "correo": "jackiechan292@univ.edu", 
+    "carrera": "Ingeniería Industrial", 
+    "facultad": "Ingeniería", 
+    "edad": 30, 
+    "fecha_registro": {"$date": "2026-03-06T11:00:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Procesos Industriales", "Logística"] 
+  },
+  { 
+    "nombre": "Mateo Ríos", 
+    "correo": "mateo.rios@univ.edu", 
+    "carrera": "Medicina", 
+    "facultad": "Ciencias de la Salud", 
+    "edad": 28, 
+    "fecha_registro": {"$date": "2026-03-11T15:20:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Anatomía", "Fisiología"] 
+  },
+  { 
+    "nombre": "Miguel Angel Londoño", 
+    "correo": "miguelito_londono@univ.edu", 
+    "carrera": "Ingeniería Industrial", 
+    "facultad": "Ingeniería", 
+    "edad": 20, 
+    "fecha_registro": {"$date": "2026-03-10T15:21:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Cálculo II", "Procesos Industriales"] 
+  },
+  { 
+    "nombre": "Sara Luz Perez", 
+    "correo": "saritaL.P@univ.edu", 
+    "carrera": "Medicina", 
+    "facultad": "Ciencias de la Salud", 
+    "edad": 22, 
+    "fecha_registro": {"$date": "2026-03-10T15:18:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Anatomía", "Bioquímica"] 
+  },
+  { 
+    "nombre": "Juan Manuel Vasquez", 
+    "correo": "juanito.ciaf@univ.edu", 
+    "carrera": "Diseño Gráfico", 
+    "facultad": "Ingeniería", 
+    "edad": 24, 
+    "fecha_registro": {"$date": "2026-03-10T15:18:00Z"}, 
+    "activo": false, 
+    "grupos_estudio": [] 
+  },
+  { 
+    "nombre": "Wilson Henao", 
+    "correo": "Wil_Henao@univ.edu", 
+    "carrera": "Diseño Gráfico", 
+    "facultad": "Ingeniería", 
+    "edad": 25, 
+    "fecha_registro": {"$date": "2026-03-11T15:18:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Tipografía", "Ilustración Digital"] 
+  },
+  { 
+    "nombre": "Alejandra Velosa", 
+    "correo": "alejandraV.ciaf.P@univ.edu", 
+    "carrera": "Ingeniería de Sistemas", 
+    "facultad": "Ingeniería", 
+    "edad": 23, 
+    "fecha_registro": {"$date": "2026-04-10T15:18:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Bases de Datos III", "Estructuras de Datos"] 
+  },
+  { 
+    "nombre": "Juan Daniel Montes", 
+    "correo": "DanielMontes@univ.edu", 
+    "carrera": "Ingeniería Industrial", 
+    "facultad": "Ingeniería", 
+    "edad": 18, 
+    "fecha_registro": {"$date": "2026-05-09T15:18:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Cálculo II"] 
+  },
+  { 
+    "nombre": "Son Je Ging", 
+    "correo": "song_ciaf.G@univ.edu", 
+    "carrera": "Diseño Gráfico", 
+    "facultad": "Ingeniería", 
+    "edad": 19, 
+    "fecha_registro": {"$date": "2026-03-10T15:18:00Z"}, 
+    "activo": true, 
+    "grupos_estudio": ["Diseño editorial"] 
+  },
+  { 
+    "nombre": "Karen Ospina", 
+    "correo": "karen.ospina@univ.edu", 
+    "carrera": "Ingeniería Industrial", 
+    "facultad": "Ingeniería", 
+    "edad": 35, 
+    "fecha_registro": {"$date": "2026-03-12T15:18:00Z"}, 
+    "activo": false, 
+    "grupos_estudio": ["Logística", "Procesos Industriales"] 
+  }
+]
